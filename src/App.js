@@ -32,7 +32,7 @@ class App extends Component {
         preco: '1000',
       },
       {
-        nome: 'Jessica',
+        nome: 'Jessicaa',
         livro: 'Python',
         preco: '1000',
       },
